@@ -1,0 +1,118 @@
+﻿<estaciones>
+  <estacion latitud="4.709875422729700" longitud="-74.11037547492613" etiqueta="Portal de la 80"/>
+  <estacion latitud="4.706790976852911" longitud="-74.10878289139610" etiqueta="Quirigua"/>
+  <estacion latitud="4.704708412467886" longitud="-74.10460187179635" etiqueta="Cr 90"/>
+  <estacion latitud="4.702452492668185" longitud="-74.10019773391694" etiqueta="Av. Cali"/>
+  <estacion latitud="4.699853006568558" longitud="-74.09697009891200" etiqueta="Granja"/>
+  <estacion latitud="4.698489296739119" longitud="-74.09486654635765" etiqueta="Cr. 77"/>
+  <estacion latitud="4.696693776510613" longitud="-74.09153126034104" etiqueta="Minuto de Dios"/>
+  <estacion latitud="4.693991234141660" longitud="-74.08713184474443" etiqueta="Boyacá"/>
+  <estacion latitud="4.690966646575355" longitud="-74.08461599713385" etiqueta="Ferias"/>
+  <estacion latitud="4.685808038104817" longitud="-74.08055331630288" etiqueta="Av. 68"/>
+  <estacion latitud="4.682432895136454" longitud="-74.07792985439300" etiqueta="Cr. 53"/>
+  <estacion latitud="4.678370000000000" longitud="-74.07407200000000" etiqueta="Cr. 47*"/>
+  <estacion latitud="4.674916000000000" longitud="-74.06867200000000" etiqueta="Escuela Militar*"/>
+  <estacion latitud="4.670708000000000" longitud="-74.06470600000000" etiqueta="Polo*"/>
+  <estacion latitud="4.754687006656519" longitud="-74.04603457594773" etiqueta="Portal del Norte"/>
+  <estacion latitud="4.746926753505812" longitud="-74.04715908933136" etiqueta="Toberín"/>
+  <estacion latitud="4.742020879615675" longitud="-74.04796918466840" etiqueta="Cardio Infantil"/>
+  <estacion latitud="4.735238280860355" longitud="-74.04908995657885" etiqueta="Mazurén"/>
+  <estacion latitud="4.731280851780170" longitud="-74.04974062395577" etiqueta="Cl. 146"/>
+  <estacion latitud="4.726872072653663" longitud="-74.05050252611399" etiqueta="Cl. 142"/>
+  <estacion latitud="4.722216605640698" longitud="-74.05126829379569" etiqueta="Alcalá"/>
+  <estacion latitud="4.714576786815319" longitud="-74.05255765951259" etiqueta="Prado"/>
+  <estacion latitud="4.704632678785035" longitud="-74.05422052825566" etiqueta="Cl. 127"/>
+  <estacion latitud="4.698083100411848" longitud="-74.05530019606347" etiqueta="Pepe Sierra"/>
+  <estacion latitud="4.693180247855729" longitud="-74.05612197543682" etiqueta="Cl. 106"/>
+  <estacion latitud="4.684354739646023" longitud="-74.05767143175076" etiqueta="Cl. 100"/>
+  <estacion latitud="4.672515000000000" longitud="-74.05959200000000" etiqueta="Cl. 85*"/>
+  <estacion latitud="4.677446000000000" longitud="-74.05875000000000" etiqueta="Virrey*"/>
+  <estacion latitud="4.666947000000000" longitud="-74.06061100000000" etiqueta="Heroes*"/>
+  <estacion latitud="4.664203000000000" longitud="-74.06102600000000" etiqueta="Cl. 76*"/>
+  <estacion latitud="4.659450000000000" longitud="-74.06182600000000" etiqueta="Cl. 72*"/>
+  <estacion latitud="4.655003000000000" longitud="-74.06297900000000" etiqueta="Flores*"/>
+  <estacion latitud="4.649448000000000" longitud="-74.06464500000000" etiqueta="Cl. 63*"/>
+  <estacion latitud="4.643862000000000" longitud="-74.06558500000000" etiqueta="Cl 57*"/>
+  <estacion latitud="4.639447000000000" longitud="-74.06639600000000" etiqueta="Marly*"/> 
+  <estacion latitud="4.632025000000000" longitud="-74.06770600000000" etiqueta="Cl. 45*"/>
+  <estacion latitud="4.628846000000000" longitud="-74.06826200000000" etiqueta="Av. 39*"/>
+  <estacion latitud="4.622767000000000" longitud="-74.06939900000000" etiqueta="Profamilia*"/>
+  <estacion latitud="4.615793000000000" longitud="-74.07245300000000" etiqueta="Cl. 26*"/>
+  <estacion latitud="4.611144000000000" longitud="-74.07494600000000" etiqueta="Cl. 22*"/>
+  <estacion latitud="4.608155000000000" longitud="-74.07649900000000" etiqueta="Cl. 19*"/>
+  <estacion latitud="4.603123000000000" longitud="-74.08016300000000" etiqueta="Av. Jimenez (a)*"/>
+  <estacion latitud="4.598525000000000" longitud="-74.08359800000000" etiqueta="Tercer Milenio*"/>
+  <estacion latitud="4.593834000000000" longitud="-74.08714800000000" etiqueta="Hospital*"/>
+  <estacion latitud="4.591318000000000" longitud="-74.08980200000000" etiqueta="Hortua*"/>
+  <estacion latitud="4.587746000000000" longitud="-74.09273000000000" etiqueta="Nariño*"/>
+  <estacion latitud="4.584230000000000" longitud="-74.09730600000000" etiqueta="Fucha*"/>
+  <estacion latitud="4.581726000000000" longitud="-74.10159600000000" etiqueta="Restrepo*"/>
+  <estacion latitud="4.579026000000000" longitud="-74.10696100000000" etiqueta="Olaya*"/>
+  <estacion latitud="4.577670000000000" longitud="-74.11115900000000" etiqueta="Quiroga*"/>
+  <estacion latitud="4.576039000000000" longitud="-74.11857100000000" etiqueta="Cl. 40S*"/>
+  <estacion latitud="4.570088000000000" longitud="-74.12496600000000" etiqueta="Santa Lucía*"/>
+  <estacion latitud="4.566894000000000" longitud="-74.12651000000000" etiqueta="Socorro*"/> 
+  <estacion latitud="4.561369000000000" longitud="-74.12435900000000" etiqueta="Consuelo*"/>
+  <estacion latitud="4.557751000000000" longitud="-74.12220800000000" etiqueta="Molinos*"/>
+  <estacion latitud="4.533696000000000" longitud="-74.12014800000000" etiqueta="Portal de Usme*"/>  
+  <estacion latitud="4.570593000000000" longitud="-74.12887600000000" etiqueta="Biblioteca*"/>
+  <estacion latitud="4.569544000000000" longitud="-74.13223200000000" etiqueta="Parque*"/>
+  <estacion latitud="4.567193000000000" longitud="-74.13818000000000" etiqueta="Portal del Tunal*"/>  
+  <estacion latitud="4.602714000000000" longitud="-74.06822900000000" etiqueta="Las Aguas*"/>
+  <estacion latitud="4.600926000000000" longitud="-74.07260500000000" etiqueta="Museo del oro*"/>
+  <estacion latitud="4.603199000000000" longitud="-74.07929800000000" etiqueta="Av. Jimenez (b)*"/>
+  <estacion latitud="4.606132000000000" longitud="-74.08260000000000" etiqueta="De la Sabana*"/>
+  <estacion latitud="4.609845000000000" longitud="-74.08687800000000" etiqueta="San Façon - Cr. 22*"/>
+  <estacion latitud="4.612816000000000" longitud="-74.09025000000000" etiqueta="Ricaurte (a)*"/>
+  <estacion latitud="4.617357000000000" longitud="-74.09536800000000" etiqueta="CDS - Cr. 32*"/>
+  <estacion latitud="4.620290000000000" longitud="-74.09861700000000" etiqueta="Zona Industrial*"/>
+  <estacion latitud="4.622870000000000" longitud="-74.10153000000000" etiqueta="Cr. 43*"/>
+  <estacion latitud="4.625818000000000" longitud="-74.10487900000000" etiqueta="Puente Aranda*"/>
+  <estacion latitud="4.627694000000000" longitud="-74.11121700000000" etiqueta="Américas Cr.53A*"/>
+  <estacion latitud="4.628474000000000" longitud="-74.11914200000000" etiqueta="Pradera*"/> 
+  <estacion latitud="4.629591000000000" longitud="-74.12862300000000" etiqueta="Marsella*"/>
+  <estacion latitud="4.630211000000000" longitud="-74.13465600000000" etiqueta="Mundo Aventura*"/>
+  <estacion latitud="4.630678000000000" longitud="-74.14023900000000" etiqueta="Mandalay*"/> 
+  <estacion latitud="4.631170000000000" longitud="-74.14546900000000" etiqueta="Banderas*"/> 
+  <estacion latitud="4.635730000000000" longitud="-74.15350100000000" etiqueta="Tv. 86*"/>
+  <estacion latitud="4.640336000000000" longitud="-74.15622500000000" etiqueta="Biblioteca Tintal*"/> 
+  <estacion latitud="4.634637000000000" longitud="-74.16291700000000" etiqueta="Patio Bonito*"/>
+  <estacion latitud="4.628467000000000" longitud="-74.17229800000000" etiqueta="Portal de las Américas*"/> 
+  <estacion latitud="4.675976000000000" longitud="-74.06745500000000" etiqueta="San Martín*"/>  
+  <estacion latitud="4.679009000000000" longitud="-74.06552600000000" etiqueta="Rio Negro*"/>
+  <estacion latitud="4.686172000000000" longitud="-74.06387800000000" etiqueta="Suba - Cl. 95*"/>
+  <estacion latitud="4.690324000000000" longitud="-74.06546100000000" etiqueta="Suba - Cl. 100*"/>
+  <estacion latitud="4.693310000000000" longitud="-74.06712100000000" etiqueta="Puentelargo*"/>
+  <estacion latitud="4.699109000000000" longitud="-74.06979100000000" etiqueta="Shaio*"/>  
+  <estacion latitud="4.706228000000000" longitud="-74.07103100000000" etiqueta="Humedal Córdoba*"/>
+  <estacion latitud="4.711720000000000" longitud="-74.07219500000000" etiqueta="Niza - Cl. 127*"/>
+  <estacion latitud="4.721346000000000" longitud="-74.07467500000000" etiqueta="Suba - Av. Boyacá*"/>  
+  <estacion latitud="4.727489000000000" longitud="-74.07467500000000" etiqueta="Gratamira*"/>
+  <estacion latitud="4.735010000000000" longitud="-74.08037900000000" etiqueta="21 ángeles*"/>
+  <estacion latitud="4.737824000000000" longitud="-74.08463400000000" etiqueta="Suba - Tv. 91*"/>  
+  <estacion latitud="4.742780000000000" longitud="-74.09121600000000" etiqueta="La Campiña*"/>
+  <estacion latitud="4.746435000000000" longitud="-74.09583300000000" etiqueta="Portal de suba*"/> 
+  <estacion latitud="4.676894000000000" longitud="-74.06216100000000" etiqueta="La Castellana*"/>
+  <estacion latitud="4.670212000000000" longitud="-74.07133900000000" etiqueta="NQS Cl. 75*"/>
+  <estacion latitud="4.667388000000000" longitud="-74.07361500000000" etiqueta="Av. Chile*"/>
+  <estacion latitud="4.656786000000000" longitud="-74.07778900000000" etiqueta="Simón Bolivar*"/>
+  <estacion latitud="4.650109000000000" longitud="-74.07840500000000" etiqueta="Coliseo*"/>
+  <estacion latitud="4.643396000000000" longitud="-74.07885700000000" etiqueta="Campín*"/>
+  <estacion latitud="4.635952000000000" longitud="-74.07885700000000" etiqueta="U. Nacional*"/>
+  <estacion latitud="4.629279000000000" longitud="-74.08013600000000" etiqueta="Av. El Dorado*"/>
+  <estacion latitud="4.623759000000000" longitud="-74.08380500000000" etiqueta="CAD*"/> 
+  <estacion latitud="4.617878000000000" longitud="-74.08872400000000" etiqueta="Paloquemao*"/>
+  <estacion latitud="4.613659000000000" longitud="-74.09221800000000" etiqueta="Ricaurte (b)*"/>
+  <estacion latitud="4.605863000000000" longitud="-74.09847100000000" etiqueta="Comuneros*"/>
+  <estacion latitud="4.600947000000000" longitud="-74.10349700000000" etiqueta="Santa Isabel*"/>
+  <estacion latitud="4.597501000000000" longitud="-74.11015400000000" etiqueta="Sena*"/>
+  <estacion latitud="4.595281000000000" longitud="-74.11591200000000" etiqueta="NQS Cl. 30S*"/>
+  <estacion latitud="4.593711000000000" longitud="-74.12315800000000" etiqueta="NQS Cl. 38A Sur*"/>  
+  <estacion latitud="4.593504000000000" longitud="-74.12870200000000" etiqueta="General Santander*"/>
+  <estacion latitud="4.594292000000000" longitud="-74.13472000000000" etiqueta="Alquería*"/>
+  <estacion latitud="4.595516000000000" longitud="-74.14137100000000" etiqueta="Venecia*"/>  
+  <estacion latitud="4.595110000000000" longitud="-74.14848700000000" etiqueta="Sevillana*"/>
+  <estacion latitud="4.596142000000000" longitud="-74.15752500000000" etiqueta="Madelena*"/>
+  <estacion latitud="4.595583000000000" longitud="-74.16349600000000" etiqueta="Perdomo*"/>  
+  <estacion latitud="4.596929000000000" longitud="-74.16998200000000" etiqueta="Portal del Sur*"/>  
+</estaciones>

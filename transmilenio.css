@@ -1,0 +1,29 @@
+body {   
+  	background-color: #fbfbfb;
+  	font-size: 16px;
+	color: #000000;
+	font-family: Trebuchet MS, Arial;
+}
+
+.informacion {  
+	color: #666666;
+}
+
+.creditos {	
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 50px;
+	padding: 10px;
+	background-color: #ffffff;
+	border-width: 4px #000000;
+	border-style: dashed;
+	width: 600px;
+	height: 300px; 
+}
+
+.mapa{
+	margin-left: auto;
+	margin-right: auto;
+	width: 800px;
+	height: 600px;
+}
